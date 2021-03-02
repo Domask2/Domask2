@@ -6,8 +6,8 @@ Currently looking for work as a Front-end Developer.
 ### My projects:
 
 - Squeeze (small landing page) :
-  - repo : https://github.com/Domask2/squeeze
-  - deploy : https://domask2.github.io/squeeze/
+  repo : https://github.com/Domask2/squeeze
+  deploy : https://domask2.github.io/squeeze/
 
 
 
