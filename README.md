@@ -5,16 +5,19 @@ Currently looking for work as a Front-end Developer.
 
 ### My projects:
 
- <code><img alt="HTML5" height="30px" src="https://cdn.svgporn.com/logos/html-5.svg" /></code></a>
- <code><img alt="CSS3" height="30px" src="https://cdn.svgporn.com/logos/css-3.svg" /></code></a>
-
-
- <img alt="JavaScript" height="30px" src="https://cdn.svgporn.com/logos/javascript.svg" /> :
+ <img alt="HTML5" height="30px" src="https://cdn.svgporn.com/logos/html-5.svg" />
+ <img alt="CSS3" height="30px" src="https://cdn.svgporn.com/logos/css-3.svg" />
+ <img alt="JavaScript" height="30px" src="https://cdn.svgporn.com/logos/javascript.svg" /> 
+ #
 
 
 
 <!--
 **Domask2/Domask2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+ <img alt="HTML5" height="30px" src="https://cdn.svgporn.com/logos/html-5.svg" />
+ <img alt="CSS3" height="30px" src="https://cdn.svgporn.com/logos/css-3.svg" />
+ <img alt="JavaScript" height="30px" src="https://cdn.svgporn.com/logos/javascript.svg" /> :
 
 Here are some ideas to get you started:
 
