@@ -1,11 +1,12 @@
 ### Hi there 👋
-My name is Sergei. I want to change my profession and become a front-end developer. I hope to get more practice and meet new people. I am not afraid of difficulties, I will try to complete the course. Rather being a Junior means always learning new things and believe that everything is possible.
+My name is Sergei. I want to change my profession and become a front-end developer. I hope to get more practice and meet new people. I am not afraid of difficulties. Rather being a Junior means always learning new things and believe that everything is possible.
 
 Currently looking for work as a Front-end Developer.
 
 ### My projects:
 
-#### Vanilla JS <img alt="JavaScript" height="20px" src="https://cdn.svgporn.com/logos/javascript.svg" />
+#### Vanilla JS <img alt="JavaScript" height="30px" src="https://cdn.svgporn.com/logos/javascript.svg" /> :
+
 
 
 <!--
