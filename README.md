@@ -5,7 +5,7 @@ Currently looking for work as a Front-end Developer.
 
 ### My projects:
 
-#### Vanilla JS <a href="https://www.javascript.com"><code><img alt="JavaScript" height="20px" src="https://cdn.svgporn.com/logos/javascript.svg" /></code></a> 
+#### Vanilla JS <img alt="JavaScript" height="20px" src="https://cdn.svgporn.com/logos/javascript.svg" />
 
 
 <!--
