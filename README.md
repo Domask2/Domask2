@@ -5,6 +5,9 @@ Currently looking for work as a Front-end Developer.
 
 ### My projects:
 
+ <code><img alt="HTML5" height="30px" src="https://cdn.svgporn.com/logos/html-5.svg" /></code></a>
+ <code><img alt="CSS3" height="30px" src="https://cdn.svgporn.com/logos/css-3.svg" /></code></a>
+
 
  <img alt="JavaScript" height="30px" src="https://cdn.svgporn.com/logos/javascript.svg" /> :
 
