@@ -3,10 +3,9 @@ My name is Sergei. I want to change my profession and become a front-end develop
 
 Currently looking for work as a Front-end Developer.
 
-## My projects:
+### My projects:
 
-<a href="https://www.javascript.com"><code><img alt="JavaScript" height="40px" src="https://cdn.svgporn.com/logos/javascript.svg" /></code></a>
-### Vanilla JS
+<a href="https://www.javascript.com"><code><img alt="JavaScript" height="40px" src="https://cdn.svgporn.com/logos/javascript.svg" /></code></a> #### Vanilla JS
 
 
 <!--
