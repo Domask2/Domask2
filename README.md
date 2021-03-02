@@ -5,21 +5,15 @@ Currently looking for work as a Front-end Developer.
 
 ### My projects:
 
-<p>
- <img alt="HTML5" height="30px" src="https://cdn.svgporn.com/logos/html-5.svg" />
- <img alt="CSS3" height="30px" src="https://cdn.svgporn.com/logos/css-3.svg" />
- <img alt="JavaScript" height="30px" src="https://cdn.svgporn.com/logos/javascript.svg" /> 
-</p>
+- Squeeze (small landing page) :
+  - repo : https://github.com/Domask2/squeeze
+  - deploy : https://domask2.github.io/squeeze/
 
 
 
 
 <!--
 **Domask2/Domask2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
- <img alt="HTML5" height="30px" src="https://cdn.svgporn.com/logos/html-5.svg" />
- <img alt="CSS3" height="30px" src="https://cdn.svgporn.com/logos/css-3.svg" />
- <img alt="JavaScript" height="30px" src="https://cdn.svgporn.com/logos/javascript.svg" /> :
 
 Here are some ideas to get you started:
 
