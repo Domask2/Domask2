@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Sergei. I want to change my profession and become a front-end developer. I hope to get more practice and meet new people. I am not afraid of difficulties, I will try to complete the course. Rather being a Junior means always learning new things and believe that everything is possible.
 
 <!--
 **Domask2/Domask2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
