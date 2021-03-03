@@ -18,6 +18,9 @@ Currently looking for work as a Front-end Developer.
 - Calculator
   - repo:   https://github.com/Domask2/calculator
   - deploy: https://rolling-scopes-school.github.io/domask2-JS2020Q3/Task1.Calculator/
+- Virtual KeyBoard
+  - repo:   https://github.com/Domask2/virtual-keyboard
+  - deploy: https://rolling-scopes-school.github.io/domask2-JS2020Q3/Task3.VirtualKeyboard/
 
 
 <!--
