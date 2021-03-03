@@ -26,6 +26,15 @@ Currently looking for work as a Front-end Developer.
   - deploy: https://rolling-scopes-school.github.io/domask2-JS2020Q3/gem-puzzle/
 
 
+<details><summary>A dropdown list for markdown</summary>
+
+   1. First item must be preceeded with an empty line.
+   1. Markdown renders **perfectly**.
+   1. Extra item.
+
+</details>
+
+
 <!--
 **Domask2/Domask2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
