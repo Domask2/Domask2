@@ -4,38 +4,14 @@ My name is Sergei. I want to change my profession and become a front-end develop
 Currently looking for work as a Front-end Developer.
 
 ### My projects:
-
 #### HTML/CSS
-  - Squeeze (small landing page) -- [Repo Github](https://github.com/Domask2/squeeze) -- [Live Demo](https://domask2.github.io/squeeze/) 
-
-  
-
+- Squeeze (small landing page) -- [Repo Github](https://github.com/Domask2/squeeze) -- [Live Demo](https://domask2.github.io/squeeze/) 
 #### HTML/CSS/JS
-- Shelter (animal cattery website)
-  - repo:   https://github.com/Domask2/shelter
-  - deploy: https://rolling-scopes-school.github.io/domask2-JS2020Q3/shelter/pages/main/main.html
-- Momentum (weather app)
-  - repo:   https://github.com/Domask2/momentum
-  - deploy: https://rolling-scopes-school.github.io/domask2-JS2020Q3/Task2.Momentum/
-- Calculator
-  - repo:   https://github.com/Domask2/calculator
-  - deploy: https://rolling-scopes-school.github.io/domask2-JS2020Q3/Task1.Calculator/
-- Virtual KeyBoard
-  - repo:   https://github.com/Domask2/virtual-keyboard
-  - deploy: https://rolling-scopes-school.github.io/domask2-JS2020Q3/Task3.VirtualKeyboard/
-- Gem-puzzle
-  - repo:   https://github.com/Domask2/gem-puzzle
-  - deploy: https://rolling-scopes-school.github.io/domask2-JS2020Q3/gem-puzzle/
-
-
-<details><summary>A dropdown list for markdown</summary>
-
-   1. First item must be preceeded with an empty line.
-   1. Markdown renders **perfectly**.
-   1. Extra item.
-
-</details>
-
+- Shelter (animal cattery website) -- [Repo Github](https://github.com/Domask2/shelter) -- [Live Demo](https://rolling-scopes-school.github.io/domask2-JS2020Q3/shelter/pages/main/main.html) 
+- Momentum (weather app) -- [Repo Github](https://github.com/Domask2/momentum) -- [Live Demo](https://rolling-scopes-school.github.io/domask2-JS2020Q3/Task2.Momentum/)
+- Calculator -- [Repo Github](https://github.com/Domask2/calculator) -- [Live Demo](https://rolling-scopes-school.github.io/domask2-JS2020Q3/Task1.Calculator/)
+- Virtual KeyBoard -- [Repo Github](https://github.com/Domask2/virtual-keyboard) -- [Live Demo](https://rolling-scopes-school.github.io/domask2-JS2020Q3/Task3.VirtualKeyboard/)
+- Gem-puzzle --[Repo Github](https://github.com/Domask2/gem-puzzle) -- [Live Demo](https://rolling-scopes-school.github.io/domask2-JS2020Q3/gem-puzzle/)
 
 <!--
 **Domask2/Domask2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
