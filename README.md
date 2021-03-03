@@ -13,7 +13,7 @@ Currently looking for work as a Front-end Developer.
 - Calculator -- [Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/Domask2/calculator) -- [Live Demo](https://rolling-scopes-school.github.io/domask2-JS2020Q3/Task1.Calculator/)
 - Virtual KeyBoard -- [Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/Domask2/virtual-keyboard) -- [Live Demo](https://rolling-scopes-school.github.io/domask2-JS2020Q3/Task3.VirtualKeyboard/)
 - Gem-puzzle --[Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/Domask2/gem-puzzle) -- [Live Demo](https://rolling-scopes-school.github.io/domask2-JS2020Q3/gem-puzzle/)
-- covid-dashboard --[Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/Domask2/covid-dashboard) -- [Live Demo](https://rolling-scopes-school.github.io/m1t9-JS2020Q3/covid-dashboard/)
+- Covid-dashboard --[Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/Domask2/covid-dashboard) -- [Live Demo](https://rolling-scopes-school.github.io/m1t9-JS2020Q3/covid-dashboard/)
 
 <!--
 **Domask2/Domask2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
