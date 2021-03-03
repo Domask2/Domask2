@@ -5,18 +5,10 @@ Currently looking for work as a Front-end Developer.
 
 ### My projects:
 
-<details>
-  <summary>
-    HTML/CSS
-  </summary>
+#### HTML/CSS
 | project | repo | deploy |
 | ------ | ------ | ------ |
 | Squeeze (small landing page) | [Repo Github](https://github.com/Domask2/squeeze) | [Live Demo](https://domask2.github.io/squeeze/) |
-</details>
-
-- Squeeze (small landing page) :
-  - repo:   https://github.com/Domask2/squeeze
-  - deploy: https://domask2.github.io/squeeze/
 
 #### HTML/CSS/JS
 - Shelter (animal cattery website)
