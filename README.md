@@ -4,10 +4,13 @@ My name is Sergei. I want to change my profession and become a front-end develop
 Currently looking for work as a Front-end Developer.
 
 ### My projects:
+
+<details><summary>#### HTML/CSS</summary>
 #### HTML/CSS
 - Squeeze (small landing page) :
   - repo:   https://github.com/Domask2/squeeze
   - deploy: https://domask2.github.io/squeeze/
+</details>
 #### HTML/CSS/JS
 - Shelter (animal cattery website)
   - repo:   https://github.com/Domask2/shelter
