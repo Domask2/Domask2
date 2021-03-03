@@ -8,11 +8,11 @@ Currently looking for work as a Front-end Developer.
 #### HTML/CSS
 - Squeeze (small landing page) -- [Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/Domask2/squeeze) -- [Live Demo](https://domask2.github.io/squeeze/) 
 #### HTML/CSS/JS
-- Shelter (animal cattery website) -- [Repo Github](https://github.com/Domask2/shelter) -- [Live Demo](https://rolling-scopes-school.github.io/domask2-JS2020Q3/shelter/pages/main/main.html) 
-- Momentum (weather app) -- [Repo Github](https://github.com/Domask2/momentum) -- [Live Demo](https://rolling-scopes-school.github.io/domask2-JS2020Q3/Task2.Momentum/)
-- Calculator -- [Repo Github](https://github.com/Domask2/calculator) -- [Live Demo](https://rolling-scopes-school.github.io/domask2-JS2020Q3/Task1.Calculator/)
-- Virtual KeyBoard -- [Repo Github](https://github.com/Domask2/virtual-keyboard) -- [Live Demo](https://rolling-scopes-school.github.io/domask2-JS2020Q3/Task3.VirtualKeyboard/)
-- Gem-puzzle --[Repo Github](https://github.com/Domask2/gem-puzzle) -- [Live Demo](https://rolling-scopes-school.github.io/domask2-JS2020Q3/gem-puzzle/)
+- Shelter (animal cattery website) -- [Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/Domask2/shelter) -- [Live Demo](https://rolling-scopes-school.github.io/domask2-JS2020Q3/shelter/pages/main/main.html) 
+- Momentum (weather app) -- [Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/Domask2/momentum) -- [Live Demo](https://rolling-scopes-school.github.io/domask2-JS2020Q3/Task2.Momentum/)
+- Calculator -- [Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/Domask2/calculator) -- [Live Demo](https://rolling-scopes-school.github.io/domask2-JS2020Q3/Task1.Calculator/)
+- Virtual KeyBoard -- [Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/Domask2/virtual-keyboard) -- [Live Demo](https://rolling-scopes-school.github.io/domask2-JS2020Q3/Task3.VirtualKeyboard/)
+- Gem-puzzle --[Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/Domask2/gem-puzzle) -- [Live Demo](https://rolling-scopes-school.github.io/domask2-JS2020Q3/gem-puzzle/)
 
 <!--
 **Domask2/Domask2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
