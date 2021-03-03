@@ -21,6 +21,9 @@ Currently looking for work as a Front-end Developer.
 - Virtual KeyBoard
   - repo:   https://github.com/Domask2/virtual-keyboard
   - deploy: https://rolling-scopes-school.github.io/domask2-JS2020Q3/Task3.VirtualKeyboard/
+- Gem-puzzle
+  - repo:   https://github.com/Domask2/gem-puzzle
+  - deploy: https://rolling-scopes-school.github.io/domask2-JS2020Q3/gem-puzzle/
 
 
 <!--
