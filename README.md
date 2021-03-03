@@ -15,6 +15,12 @@ Currently looking for work as a Front-end Developer.
 - Gem-puzzle --[Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/Domask2/gem-puzzle) -- [Live Demo](https://rolling-scopes-school.github.io/domask2-JS2020Q3/gem-puzzle/)
 - Covid-dashboard --[Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/Domask2/covid-dashboard) -- [Live Demo](https://rolling-scopes-school.github.io/m1t9-JS2020Q3/covid-dashboard/)
 
+#### React/Redux
+- Travel WebSite [Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/Domask2/react-website-travel) -- [Live Demo](https://trusting-swanson-597265.netlify.app/)
+
+#### Mongo DB
+- Rest Api Mongo Atlas [Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/Domask2/restAPi-mongoDB)
+
 <!--
 **Domask2/Domask2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
