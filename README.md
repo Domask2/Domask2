@@ -6,14 +6,14 @@ Currently looking for work as a Front-end Developer.
 ### My projects:
 
 - Squeeze (small landing page) :
-  - repo : https://github.com/Domask2/squeeze
-  - deploy : https://domask2.github.io/squeeze/
+  - repo:   https://github.com/Domask2/squeeze
+  - deploy: https://domask2.github.io/squeeze/
 - Shelter (animal cattery website)
-  - repo: https://github.com/Domask2/shelter
-  - deploy : https://rolling-scopes-school.github.io/domask2-JS2020Q3/shelter/pages/main/main.html
+  - repo:   https://github.com/Domask2/shelter
+  - deploy: https://rolling-scopes-school.github.io/domask2-JS2020Q3/shelter/pages/main/main.html
 - Momentum (weather app)
-  - repo: https://github.com/Domask2/shelter
-  - deploy : https://rolling-scopes-school.github.io/domask2-JS2020Q3/shelter/pages/main/main.html
+  - repo:   https://github.com/Domask2/momentum
+  - deploy: https://rolling-scopes-school.github.io/domask2-JS2020Q3/Task2.Momentum/
 
 
 <!--
