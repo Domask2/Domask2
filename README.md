@@ -19,7 +19,7 @@ Currently looking for work as a Front-end Developer.
 - Travel WebSite [Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/Domask2/react-website-travel) -- [Live Demo](https://trusting-swanson-597265.netlify.app/)
 - Ecommerce-TypeScript-Firebase [Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/Domask2/ecommerce-TS-GQL-FB) -- [Live Demo](https://ecommerce-furniture-fe321.web.app/)
 - Gallery [Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/Domask2/perco-gallery) -- [Live Demo](https://sleepy-mclean-30d632.netlify.app/)
-- 
+- Plinor List [Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/Domask2/https://github.com/Domask2/plinor) -- [Live Demo](https://xenodochial-bhaskara-9673e5.netlify.app/)
 #### Mongo DB
 - Rest Api Mongo Atlas [Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/Domask2/restAPi-mongoDB)
 
