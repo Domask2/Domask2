@@ -18,6 +18,8 @@
 - Gallery [Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/Domask2/perco-gallery) -- [Live Demo](https://sleepy-mclean-30d632.netlify.app/)
 - Plinor List [Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/Domask2/https://github.com/Domask2/plinor) -- [Live Demo](https://xenodochial-bhaskara-9673e5.netlify.app/)
 
+- Portfolio Design [Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/Domask2/vera) -- [Live Demo](https://vera-theta.vercel.app/)
+
 <!--
 **Domask2/Domask2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
