@@ -19,6 +19,7 @@
 - Plinor List [Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/Domask2/https://github.com/Domask2/plinor) -- [Live Demo](https://xenodochial-bhaskara-9673e5.netlify.app/)
 - Portfolio Design [Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/Domask2/vera) -- [Live Demo](https://vera-theta.vercel.app/)
 - Nimax [Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/Domask2/nimax) -- [Live Demo](https://lighthearted-longma-de32ab.netlify.app/)
+- Smetter [Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />]([https://github.com/Domask2/nimax](https://github.com/Domask2/smetter)) -- [Live Demo](https://gleeful-longma-3fa784.netlify.app/)
 
 <!--
 **Domask2/Domask2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
