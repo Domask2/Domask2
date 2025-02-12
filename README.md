@@ -20,7 +20,7 @@
 - Portfolio Design [Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/Domask2/vera) -- [Live Demo](https://vera-theta.vercel.app/)
 - Multiple Forms [Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/Domask2/nimax) -- [Live Demo](https://lighthearted-longma-de32ab.netlify.app/)
 - Smetter [Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/Domask2/smetter) -- [Live Demo](https://gleeful-longma-3fa784.netlify.app/)
-- Infinity Scroll [Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/Domask2/nag/tree/main) -- [Live Demo](https://tubular-crostata-cada96.netlify.app/)
+- SWR List [Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/Domask2/nag/tree/main) -- [Live Demo](https://tubular-crostata-cada96.netlify.app/)
 - Bilet SVG [Repo Github <img alt="GitHub" height="10px" src="https://cdn.svgporn.com/logos/github-icon.svg" />](https://github.com/Domask2/bilet) -- [Live Demo](https://steady-nasturtium-424e73.netlify.app/)
 
 <!--
